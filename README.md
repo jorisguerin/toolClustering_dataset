@@ -48,4 +48,6 @@ Note: tools.tar.gz contains everything related to this dataset.
       In each subfloder, images are named "ij.jpg", where i is the object, and j the picture number.
       All pictures "ij.jpg" belonging to the same subfolder represent the same object i (whatever j is).
 
-### 8. MISSING ATTRIBUTE VALUES: None
+### 8. MISSING ATTRIBUTE VALUES: 
+
+      None
