@@ -2,9 +2,11 @@
 
 Note: tools.tar.gz contains everything related to this dataset.
 
-## 1. TITLE: Tool Database for image-set clustering
+### 1. TITLE: 
 
-## 2. CONTACT: 
+      Tool Database for image-set clustering
+
+### 2. CONTACT: 
 
       Joris GUERIN
       Laboratoire des Sciences de l'Information et des Systèmes (INSM team)
@@ -15,7 +17,7 @@ Note: tools.tar.gz contains everything related to this dataset.
       Tel. (+33) 783699592
       email: joris.guerin@ensam.eu // joris.guerin.110@gmail.com
 
-3. RELEVANT INFORMATION:
+### 3. RELEVANT INFORMATION:
       
       This database was generated to evaluate a robotic application dealing with 
       image-set clustering. The goal is to sort and store tools on an table in an
@@ -25,7 +27,7 @@ Note: tools.tar.gz contains everything related to this dataset.
       are changed. For each condition, four picture of each object are taken under
       different orientations.
 
-5. NUMBER OF INSTANCES:
+### 5. NUMBER OF INSTANCES:
 
       5 lighting and background conditions
       7 types of objects per condition
@@ -34,16 +36,16 @@ Note: tools.tar.gz contains everything related to this dataset.
 
       560 images in total
 
-6. NUMBER OF CLASSES:
+### 6. NUMBER OF CLASSES:
 
       This dataset can be used for object grouping (7 classes), as well as fine-grained
       classification (# of classes = # of object per group.)
 
-7. NAMING CONVENTION:
+### 7. NAMING CONVENTION:
 
       Each lighting and background setups are grouped in different folders (conditioni).
       In each condition folder, pictures of different objects are grouped in subfolders representing classes.
       In each subfloder, images are named "ij.jpg", where i is the object, and j the picture number.
       All pictures "ij.jpg" belonging to the same subfolder represent the same object i (whatever j is).
 
-8. MISSING ATTRIBUTE VALUES: None
+### 8. MISSING ATTRIBUTE VALUES: None
