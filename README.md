@@ -2,9 +2,9 @@
 
 Note: tools.tar.gz contains everything related to this dataset.
 
-1. TITLE: Tool Database for image-set clustering
+## 1. TITLE: Tool Database for image-set clustering
 
-2. CONTACT: 
+## 2. CONTACT: 
 
       Joris GUERIN
       Laboratoire des Sciences de l'Information et des Systèmes (INSM team)
