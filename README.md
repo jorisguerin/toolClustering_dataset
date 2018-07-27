@@ -15,7 +15,7 @@ Note: tools.tar.gz contains everything related to this dataset.
       59800 LILLE
       FRANCE
       Tel. (+33) 783699592
-      email: joris.guerin@ensam.eu // joris.guerin.110@gmail.com
+      email: joris.guerin@ensam.eu // jorisguerin.research@gmail.com
 
 ### 3. RELEVANT INFORMATION:
       
