@@ -51,3 +51,13 @@ Note: tools.tar.gz contains everything related to this dataset.
 ### 8. MISSING ATTRIBUTE VALUES: 
 
       None
+
+### 9. CITATION:
+
+If you find this dataset useful in your research, please consider citing:
+
+      @article{guerin2017cnn,
+        title={CNN features are also great at unsupervised classification},
+        author={Gu{\'e}rin, Joris and Gibaru, Olivier and Thiery, St{\'e}phane and Nyiri, Eric},
+        journal={arXiv preprint arXiv:1707.01700},
+        year={2017}}
